@@ -9,9 +9,9 @@ Implements
 - Golden Test
 - Widgetbook
 - Router
-- Internationalize
+- Internationalize (TH / EN)
 - GraphQL
 - Backend ?? (Go / .NET) 
 - Deploy ??
 - CI/CD
-- Sonarqube on cloud
+- Sonarcloud
