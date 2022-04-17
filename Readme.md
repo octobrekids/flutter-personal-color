@@ -14,3 +14,4 @@ Implements
 - Backend ?? (Go / ASP) 
 - Deploy ?? 
 - CI/CD
+- Sonarqube on cloud
