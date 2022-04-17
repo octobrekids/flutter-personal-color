@@ -11,7 +11,7 @@ Implements
 - Router
 - Internationalize
 - GraphQL
-- Backend ?? (Go / ASP) 
-- Deploy ?? 
+- Backend ?? (Go / .NET) 
+- Deploy ??
 - CI/CD
 - Sonarqube on cloud
